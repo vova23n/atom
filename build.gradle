@@ -10,7 +10,7 @@
 //}
 
 apply plugin: 'java'
-apply plugin: 'checkstyle'
+//apply plugin: 'checkstyle'
 
 //dependencies {
 //    // https://mvnrepository.com/artifact/org.slf4j/slf4j-api
@@ -34,8 +34,8 @@ apply plugin: 'checkstyle'
 //}
 
 
-checkstyle {
-    ignoreFailures = false
-    toolVersion = '7.5'
-    configFile = new File('../config/checkstyle/checkstyle.xml')
-}
+//checkstyle {
+//    ignoreFailures = false
+//    toolVersion = '7.5'
+//    configFile = new File('../config/checkstyle/checkstyle.xml')
+//}

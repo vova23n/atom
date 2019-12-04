@@ -14,4 +14,5 @@
 ////include 'bomberman/frontend'
 //include 'homeworks/HK2'
 rootProject.name = 'atom'
+
 include 'homeworks/HW1'
